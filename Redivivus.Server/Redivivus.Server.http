@@ -1,0 +1,6 @@
+@Redivivus.Server_HostAddress = http://localhost:5233
+
+GET {{Redivivus.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
